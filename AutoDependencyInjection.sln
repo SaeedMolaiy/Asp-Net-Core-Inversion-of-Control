@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoDependencyInjection", "AutoDependencyInjection\AutoDependencyInjection.csproj", "{FE60B07F-6AC6-4713-9FE9-D513ECF54FD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "DataLayer\DataLayer.csproj", "{97D23F47-B38F-48C8-B9D2-501F33291C8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE60B07F-6AC6-4713-9FE9-D513ECF54FD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE60B07F-6AC6-4713-9FE9-D513ECF54FD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE60B07F-6AC6-4713-9FE9-D513ECF54FD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE60B07F-6AC6-4713-9FE9-D513ECF54FD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97D23F47-B38F-48C8-B9D2-501F33291C8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97D23F47-B38F-48C8-B9D2-501F33291C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97D23F47-B38F-48C8-B9D2-501F33291C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97D23F47-B38F-48C8-B9D2-501F33291C8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {094FB657-C2DB-43C8-9E18-0F5FC2BFFF3D}
+	EndGlobalSection
+EndGlobal
